@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![](https://github-readme-stats.vercel.app/api?username=NULL204&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=NULL204&count_private =true&show_icons=true)
+
 Under construction...
 
 <!--
